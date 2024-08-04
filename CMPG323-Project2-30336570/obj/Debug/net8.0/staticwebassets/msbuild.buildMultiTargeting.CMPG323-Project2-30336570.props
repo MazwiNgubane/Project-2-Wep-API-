@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CMPG323-Project2-30336570.props" />
+</Project>
