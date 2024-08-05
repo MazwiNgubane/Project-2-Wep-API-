@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\desktop\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\desktop\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\desktop\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\models\\nwutechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:models\\nwutechdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,18 +52,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T04:34:36.196Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T04:14:24.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T04:14:24.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -80,12 +79,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-03T16:34:43.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:34:43.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "Controllers\\ClientsController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAwwEAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T15:28:47.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:28:47.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T15:14:09.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:14:09.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "NwutechDbContext.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Models\\NwutechDbContext.cs",
               "RelativeDocumentMoniker": "Models\\NwutechDbContext.cs",
@@ -123,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CMPG323-Project2-30336570.csproj",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
               "RelativeDocumentMoniker": "CMPG323-Project2-30336570.csproj",
