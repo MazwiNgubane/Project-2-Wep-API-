@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj": {}
+    "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj": {
+    "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
         "projectName": "CMPG323-Project2-30336570",
-        "projectPath": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
+        "projectPath": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -75,7 +87,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.0, )"
             }
           },
           "imports": [
