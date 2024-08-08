@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78A154B2-C167-473C-A4D3-5EA0E5968FD1}|CMPG323-Project2-30336570.csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\cmpg323-project2-30336570\\cmpg323-project2-30336570.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -46,34 +74,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-07T16:39:54.743Z",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowH0AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:33:47.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\Response.cs",
+              "RelativeToolTip": "Authentication\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:32:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Authentication\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:30:09.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:28:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Authentication\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:25:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "Authentication\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:19:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAACkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T04:34:36.196Z",
               "EditorCaption": ""
@@ -81,6 +170,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:22:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T16:39:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
@@ -93,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -106,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
@@ -119,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "NwutechDbContext.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Models\\NwutechDbContext.cs",
               "RelativeDocumentMoniker": "Models\\NwutechDbContext.cs",
@@ -132,20 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CMPG323-Project2-30336570.csproj",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
               "RelativeDocumentMoniker": "CMPG323-Project2-30336570.csproj",
               "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\CMPG323-Project2-30336570.csproj",
               "RelativeToolTip": "CMPG323-Project2-30336570.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-03T13:42:42.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "JobTelemetriesController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\JobTelemetriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobTelemetriesController.cs",
@@ -158,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ProcessesController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\CMPG323-Project2-30336570\\Controllers\\ProcessesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProcessesController.cs",
