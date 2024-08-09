@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\30336570(project-2).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:30336570(project-2).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:54:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ApplicationUser.cs",
+              "RelativeToolTip": "Controllers\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:51:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "30336570(Project-2)",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\30336570(Project-2).csproj",
+              "RelativeDocumentMoniker": "30336570(Project-2).csproj",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\30336570(Project-2).csproj",
+              "RelativeToolTip": "30336570(Project-2).csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T08:50:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:49:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:51:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProcessesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
+              "RelativeToolTip": "Controllers\\ProcessesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:50:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T07:34:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobTelemetriesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobTelemetriesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
+              "RelativeToolTip": "Controllers\\JobTelemetriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:47:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:45:31.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
