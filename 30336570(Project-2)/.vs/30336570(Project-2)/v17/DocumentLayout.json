@@ -1,69 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\migrations\\20240810054512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\migrations\\20240810054512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:migrations\\20240810054512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\30336570(project-2).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\30336570(project-2).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:30336570(project-2).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\desktop\\cmpg323 projects\\project 2\\30336570(project-2)\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|c:\\users\\acer\\pictures\\cmpg-323-project-2-30336570\\30336570(project-2)\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C15CAA-1318-4EA7-BD1A-E43732AA59DC}|30336570(Project-2).csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,32 +73,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20240810054512_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Migrations\\20240810054512_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Migrations\\20240810054512_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20240810054512_Initial.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Migrations\\20240810054512_Initial.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Migrations\\20240810054512_Initial.cs",
               "RelativeToolTip": "Migrations\\20240810054512_Initial.cs",
               "ViewState": "AQIAAMQAAAAAAAAAAAAgwNUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T05:45:13.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T05:45:13.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "30336570(Project-2).csproj",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\30336570(Project-2).csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\30336570(Project-2).csproj",
               "RelativeDocumentMoniker": "30336570(Project-2).csproj",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\30336570(Project-2).csproj",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\30336570(Project-2).csproj",
               "RelativeToolTip": "30336570(Project-2).csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -109,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "JobTelemetriesController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobTelemetriesController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\JobTelemetriesController.cs",
               "RelativeToolTip": "Controllers\\JobTelemetriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Authentication\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\ApplicationUser.cs",
               "RelativeToolTip": "Authentication\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +140,9 @@
               "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
               "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-09T07:34:23.299Z",
@@ -158,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Authentication\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\ApplicationDbContext.cs",
               "RelativeToolTip": "Authentication\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,9 +164,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\LoginModel.cs",
               "RelativeDocumentMoniker": "Authentication\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\LoginModel.cs",
               "RelativeToolTip": "Authentication\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +188,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\Response.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\Response.cs",
               "RelativeDocumentMoniker": "Authentication\\Response.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\Response.cs",
               "RelativeToolTip": "Authentication\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,9 +200,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AuthenticateController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\AuthenticateController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthenticateController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\AuthenticateController.cs",
               "RelativeToolTip": "Controllers\\AuthenticateController.cs",
               "ViewState": "AQIAAFwAAAAAAAAAAAAIwA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,9 +212,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserRoles.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\UserRoles.cs",
               "RelativeDocumentMoniker": "Authentication\\UserRoles.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\UserRoles.cs",
               "RelativeToolTip": "Authentication\\UserRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,9 +224,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\RegisterModel.cs",
               "RelativeDocumentMoniker": "Authentication\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Authentication\\RegisterModel.cs",
               "RelativeToolTip": "Authentication\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,9 +236,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "Controllers\\ClientsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,9 +248,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ProcessesController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProcessesController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ProcessesController.cs",
               "RelativeToolTip": "Controllers\\ProcessesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,13 +260,17 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "Controllers\\ProjectsController.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAcwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T07:45:31.664Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

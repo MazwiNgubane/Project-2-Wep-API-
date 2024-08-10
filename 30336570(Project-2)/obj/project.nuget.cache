@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdeLuQax8t1GBRdcHqLi19QQeNQ2ci3dfN8imt6ljb1Szxs5lo+NF2a32xqNMUE6eGUN/LSumHf24pjNVeWQYA==",
+  "dgSpecHash": "qrM0k8XBPVwivsXhOMzDlsmbwIj6Vv1/EI8OViyTrO97z386m/tI7tVDPAUQKwyqt3lT60Eq87FPvgGfRCoo7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\Desktop\\cmpg323 projects\\project 2\\30336570(Project-2)\\30336570(Project-2).csproj",
+  "projectFilePath": "C:\\Users\\acer\\Pictures\\CMPG-323-Project-2-30336570\\30336570(Project-2)\\30336570(Project-2).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
