@@ -1,10 +1,8 @@
-﻿using _30336570_Project_2_.Authentication;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Authentication;
 
-namespace WebApplication1.Authentication
+namespace _30336570_Project_2_.Authentication
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
