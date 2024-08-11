@@ -5,7 +5,8 @@
 The NWU Tech Trends API allows users to manage telemetry data for automation systems, tracking time saved, and associating it with projects and clients. This API supports CRUD operations on projects, clients, and telemetry records.
 
 #### Base URL
-
+even though it will display an 500 error which is the Error that indicate that the is a problem with the server, and it is because  of the fact that my credits in Azure portal subscription are used up
+https://cmpg323-project2-3033657020240807133509.azurewebsites.net
 #### Endpoints
 ##### JobTelemetries
 ###### get All Job Telemetry Records
@@ -253,3 +254,27 @@ The NWU Tech Trends API allows users to manage telemetry data for automation sys
 409 Conflict: The request conflicts with the current state of the server.
 500 Internal Server Error: The server has encountered a situation it doesn't know how to handle.
 503 Service Unavailable: The server is not ready to handle the request.
+
+## Referencing 
+
+
+(2004) What is an API? - application programming interface explained - AWS. Available at: https://aws.amazon.com/what-is/api/ (Accessed: 03 August 2024).
+
+GeeksforGeeks (2024) What is an API (application programming interface), GeeksforGeeks. Available at: https://www.geeksforgeeks.org/what-is-an-api/ (Accessed: 03 August 2024). 
+
+What is an API? - application programming interface explained - AWS. Available at: https://aws.amazon.com/what-is/api/ (Accessed: 03 August 2024). 
+
+Azure Active Directory Authentication for SQL database: Azure (2021) YouTube. Available at: https://youtu.be/4tOpFnR35P0 (Accessed: 4 August 2024).
+
+
+ASP.NET core web API .NET 6 2022 - 1. Create Project & Quick Tips (2022) YouTube. Available at: https://youtu.be/_8nLSsK5NDo?list=PL82C6-O4XrHdiS10BLh23x71ve9mQCln0 (Accessed: 6 August 2024).
+
+
+aug CMPG323 Weekly Virtual class API controllers (2023) YouTube. Available at: https://youtu.be/kiSJGGy29fY (Accessed: 20 August 2023
+
+
+ASP.NET Core - scaffolding with Entity Framework Core (database first approach) (2020) YouTube. Available at: https://youtu.be/SnU4Ulee_NI (Accessed: 4 August 2024).
+
+
+Create an EF core model from database first (scaffold DB context) (2023) YouTube. Available at: https://youtu.be/SrEjoJ_G6tc (Accessed: 6 August 2024).
+
